@@ -2,8 +2,9 @@ package ne2s;
 
 public class Elroy {
 	
-	public static void main([]String args) {
-		Sytem.out.prinln("cartel")
+	public static void main(String[] args) {
+	  System.out.println("cartel");
 	}
 
 }
+
